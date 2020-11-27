@@ -1,0 +1,14 @@
+﻿open wordpad|wordpad.exe|true
+open google|http://www.google.com|true
+open notepad|notepad.exe|true
+open calculator|calc.exe|true
+open computer|explorer.exe|true
+open server|C:\xampp\xampp-control.exe|true
+what time is it|m|false
+what  is the  date|m|false
+exit|m|false|asf
+close notepad|notepad|true
+close wordpad|wordpad|true
+close calculator|Calculator|true
+close computer|explorer|true
+close google|chrome|true
